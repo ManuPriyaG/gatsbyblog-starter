@@ -6,3 +6,4 @@ image: time.jpg
 ---
 
 Did you know that important API information can be found on https://www.programmableweb.com/
+If you want to play around with some complex API end point(aka fake REST services), try making your hands dirty at jsonplaceholder.typicode.com
