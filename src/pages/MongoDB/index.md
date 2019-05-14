@@ -1,5 +1,5 @@
 ---
-title: How to install and work with a MongoDB( through MongoShell)?
+title: How to install and work with a MongoDB?
 description : 
 date: '2019-05-14'
 ---
